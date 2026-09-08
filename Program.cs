@@ -7,6 +7,10 @@
             #region question1
             //Book book = new Book();
             #endregion
+            #region question2
+            //Book book = new Book();
+            //Console.WriteLine(book.copiesInStock);
+            #endregion
         }
     }
 }

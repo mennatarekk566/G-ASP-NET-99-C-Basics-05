@@ -16,6 +16,13 @@
             //book.tittle = "cukur";
             //Console.WriteLine(book.tittle);
             #endregion
+            #region question4
+            //Book book = new Book();
+            //book.Genre = Genre.Science;
+            //Console.WriteLine(book.Genre);
+            #endregion
+
+           
         }
     }
 }

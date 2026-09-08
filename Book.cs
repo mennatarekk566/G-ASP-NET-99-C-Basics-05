@@ -14,5 +14,8 @@ namespace G_ASP_NET_99_C_Basics_05m
         #region question 2
         //internal int copiesInStock = 5;
         #endregion
+        #region question3
+        //public string tittle;
+        #endregion
     }
 }

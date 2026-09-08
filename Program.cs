@@ -11,6 +11,11 @@
             //Book book = new Book();
             //Console.WriteLine(book.copiesInStock);
             #endregion
+            #region question3
+            //Book book = new Book();
+            //book.tittle = "cukur";
+            //Console.WriteLine(book.tittle);
+            #endregion
         }
     }
 }

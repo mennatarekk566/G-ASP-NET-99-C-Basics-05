@@ -21,8 +21,12 @@
             //book.Genre = Genre.Science;
             //Console.WriteLine(book.Genre);
             #endregion
+            #region question5
+            //Console.WriteLine((int)Genre.Fiction);    
+            //Console.WriteLine((int)Genre.NonFiction); 
+            //Console.WriteLine((int)Genre.Science);
+            #endregion
 
-           
         }
     }
 }
